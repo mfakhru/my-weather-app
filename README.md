@@ -8,6 +8,7 @@
 ## Tentang Aplikasi
 Aplikasi ini dibuat untuk Kelas JCC Partnership - Project Challenge.   
 MyZi Weather App merupakan sebuah aplikasi untuk menampilkan perkiraan cuaca yang diambil dari Open Weather Map.  
+   
 Disusun oleh:   
 Muhammad Fakhrurrozi Sutisna   
 Kelas React Native
