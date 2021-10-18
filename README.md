@@ -19,7 +19,7 @@ Link API: https://openweathermap.org/api/one-call-api
 ## Simulasi
 Video Penjelasan Singkat: https://drive.google.com/drive/folders/1LYfKYmSRa9OZ6dLLi4m11uMgiNDBrYvq?usp=sharing
 <p align="center">
-  <img src="https://github.com/my-weather-app/src/img/weather.png" width="240" height="427">
+  <img src="https://github.com/mfakhru/my-weather-app/blob/master/output app/simulasi.gif" width="240" height="427">
   <br>
   <b>Simulasi</b>
 </p>
