@@ -1,6 +1,6 @@
 # MyZi Weather App
 <p align="center">
-  <img src="https://github.com/mfakhru/master/my-weather-app/src/img/weather.png" width="150" height="150">
+  <img src="https://github.com/mfakhru/my-weather-app/blob/master/src/img/weather.png" width="150" height="150">
   <br>
   <b>Logo</b>
 </p>
