@@ -7,7 +7,7 @@
 
 ## Tentang Aplikasi
 Aplikasi ini dibuat untuk Kelas JCC Partnership - Project Challenge.   
-*MyZi Weather App* merupakan sebuah aplikasi untuk menampilkan perkiraan cuaca yang diambil dari Open Weather Map.  
+**MyZi Weather App** merupakan sebuah aplikasi untuk menampilkan perkiraan cuaca yang diambil dari Open Weather Map.  
 Pada aplikasi terdapat dua layar yaitu layar form untuk mengisi Nama Pengguna, memilih Provinsi, dan memilih Kota.
 Kemudian inputan yang diisi pada layar pertama (layar form) akan tampil pada layar kedua. 
 Pada layar kedua ini akan menampilkan kondisi saat ini seperti ucapan selamat pagi/siang/malam sesuai dengan waktu kita menggunakan aplikasi tersebut, kemudian terdapat suhu, kondisi cuaca, waktu, dan juga tempat sesuai dengan inputan pada layar pertama. Selain itu terdapat juga kondisi cuaca, suhu malam, suhu siang hari tersebut serta terdapat perkiraan cuaca 7 hari ke depan sesuai dengan API OpenWeather.
